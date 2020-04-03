@@ -1,6 +1,7 @@
-**READ ME**
+## READ ME
 
-•	Dataset: Loan Data from Prosper with Prosper Data Dictionary to Explain Dataset's Variables.
+•	Dataset: Loan Data from Prosper with Prosper Data Dictionary to Explain Dataset's Variables. 
+		Data can be downloaded here: https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1585957939278000
 •	Main findings:
 	1. It is observable here that there is a disparity between the spread of borrowing rates and the spread of returns. As borrowing rates are determined by the riskiness of the investment, it is worth noting the distribution of risk amongst the loans listed.
 	2. The distribution of risk follows a plausible bell-shaped curved. Some additional context could be provided by the fact that about 70% of the listings with reported income have stated earnings between  2,500€ - 8,000€ monthly. Hence, we can extrapolate that Prosper tends to attract middle-class borrowers.
