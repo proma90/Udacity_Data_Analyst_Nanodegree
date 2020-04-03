@@ -1,0 +1,19 @@
+**READ ME**
+
+•	Dataset: Loan Data from Prosper with Prosper Data Dictionary to Explain Dataset's Variables.
+•	Main findings:
+	1. It is observable here that there is a disparity between the spread of borrowing rates and the spread of returns. As borrowing rates are determined by the riskiness of the investment, it is worth noting the distribution of risk amongst the loans listed.
+	2. The distribution of risk follows a plausible bell-shaped curved. Some additional context could be provided by the fact that about 70% of the listings with reported income have stated earnings between  2,500€ - 8,000€ monthly. Hence, we can extrapolate that Prosper tends to attract middle-class borrowers.
+	3. 12: Green loans have the lowest Completion Rate but with 10/18 completions it is difficult to say whether the category is necessarily riskier than the others or whether it was just a new type by 2014.
+		3.1. 16: Motorcycle loans have a particularly high completion rate with 86/94
+		3.2. Overall, we can see that for any category loans are completed more than half the time.
+	4. We can observe that 1-year loans have the lowest history of defaulting with reasonable returns peaking at about 10%; 3-year loans have the widest range of expected returns, with more extreme rates seeming to have lower defaults historically; lastly, 5-year loans have higher returns on average than 1 year but at a much higher risk of default historically
+	5. The borrowing rates are determined according to the credit rating assigned by Proper, thus,  we can discern how the risk is dispersed amongst the expected returns. In particular, it resembles as an investor should have to tread very lightly with Borrowing APR's over 20% as there is a significantly larger chance of losing substantial portions of their investment.
+•	List of resources used during the creation of the project. This includes web sites, books, forums, blog posts, and GitHub repositories:
+	1. https://chrisalbon.com/python/data_visualization/seaborn_color_palettes/
+	2. https://www.codecademy.com/articles/seaborn-design-ii
+	3. https://towardsdatascience.com/how-to-use-your-own-color-palettes-with-seaborn-a45bf5175146
+	4. https://towardsdatascience.com/violin-plots-explained-fb1d115e023d
+	5. https://www.investopedia.com/terms/c/correlationcoefficient.asp
+	6. https://towardsdatascience.com/formatting-tips-for-correlation-heatmaps-in-seaborn-4478ef15d87f
+	7. https://asq.org/quality-resources/histogram
